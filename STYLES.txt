@@ -1,0 +1,6 @@
+COLOR SHADES:
+
+#C42121 - Red
+#403A3A - Dark Gray
+#FFFFFF - White
+#000000 - Gray
